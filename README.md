@@ -2,7 +2,6 @@
 
 <p>My name is Lukman, I love coding.</p>
 <p>I’m interested in Mobile Application and Front End Dev</p>
-<p>I’m currently learning Flutter</p><br>
 
 <!---
 <p>Want to know about me? let's connect:</p>
