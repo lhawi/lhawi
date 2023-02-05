@@ -1,7 +1,6 @@
 <h2>👋 Hello World</h2>
-
-<p>My name is Lukman, I love coding.</p>
-<p>I’m interested in Mobile Application and Front End Dev</p>
+<p>My name is Lukman and I am a passionate software developer.</p>
+<p>My expertise lies in Mobile Application Development and Front End Development. </p>
 
 <!---
 <p>Want to know about me? let's connect:</p>
